@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     [DCI] Dark Cyber Indo [DCI]"$i"                |"
+echo $i" |"$cy"     [DCI] Dark Cyber Indo [DCI]"$i"            |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR    :"$ku" Cyser Inc.  [Dark Cyber Indo]"$i"   |"
 echo $i" |"$pu" FACEBOOK  :"$ku" CYSER"$i"                           |"
@@ -254,13 +254,15 @@ if [ $pil = 19 ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
-sleep 2
+sleep 1
 echo $cy"Terima Kasih Sudah Pakai Tools Saya"
+echo ""
 sleep 2
 echo $i"Jangan Lupa Subscribe Channel Saya"
 sleep 2
 echo $ku"YouTube :"$i" Cyser Inc."
 echo $me"https://youtube.com/c/CyserInc"
+echo ""
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
