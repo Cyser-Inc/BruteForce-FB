@@ -19,7 +19,7 @@ echo $i" |"$pu" FACEBOOK  :"$ku" CYSER"$i"                            |"
 echo $i" |"$pu" INSTAGRAM :"$ku" Cyser_Inc"$i"                        |"
 echo $i" |"$pu" YOUTUBE   :"$ku" Cyser Inc."$i"                       |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.N0T] [MR.M!ND$] [MR.€®®0®]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] "$i"                    |"
+
 echo $i" |"$pu" Contack WhatsApp :"$ku" 0895802871229"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" official.cyser@gmail.com"$i"     |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
