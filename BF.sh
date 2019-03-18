@@ -18,7 +18,7 @@ echo $i" |"$pu" AUTHOR    :"$ku" Cyser Inc.  [Dark Cyber Indo]"$i"   |"
 echo $i" |"$pu" FACEBOOK  :"$ku" CYSER"$i"                           |"
 echo $i" |"$pu" INSTAGRAM :"$ku" Cyser_Inc"$i"                       |"
 echo $i" |"$pu" YOUTUBE   :"$ku" Cyser Inc."$i"                      |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.N0T] [MR.M!ND$] [MR.€®®0®]"$i" |"
+
 
 echo $i" |"$pu" WhatsApp  :"$ku" 0895802871229"$i"                   |"
 echo $i" |"$pu" Gmail     :"$ku" official.cyser@gmail.com"$i"        |"
@@ -255,12 +255,12 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"Terima Kasih Sudah Pakai Tools Saya"
 sleep 2
-echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
+echo $i"Jangan Lupa Subscribe Channel Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"YouTube :"$i" Cyser Inc."
+echo $me"https://youtube.com/c/CyserInc"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
