@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"      [DCI] Dark Cyber Indo [DCI]"$i"             |"
+echo $i" |"$cy"        [DCI] Dark Cyber Indo [DCI]"$i"          |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR    :"$ku" Cyser Inc.  [Dark Cyber Indo]"$i"   |"
 echo $i" |"$pu" FACEBOOK  :"$ku" CYSER"$i"                           |"
@@ -259,11 +259,12 @@ echo $cy"Terima Kasih Sudah Pakai Tools Saya"
 echo ""
 sleep 2
 echo $i"Jangan Lupa Subscribe Channel Saya"
-sleep 2
-Figlet "Cyser Inc."|lolcat
+sleep 1
+figlet "Cyser Inc."|lolcat
 echo $me"https://youtube.com/c/CyserInc"
 echo ""
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo ""
 exit
 fi
