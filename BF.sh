@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"        [DCI] Dark Cyber Indo [DCI]"$i"          |"
+echo $i" |"$cy"         [DCI] Dark Cyber Indo [DCI]"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR    :"$ku" Cyser Inc.  [Dark Cyber Indo]"$i"   |"
 echo $i" |"$pu" FACEBOOK  :"$ku" CYSER"$i"                           |"
